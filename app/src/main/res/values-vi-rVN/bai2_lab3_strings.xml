@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bai2_lab3_app_name">Âm thanh động vật</string>
+    <string name="bai2_lab3_txt_name">Thỏ</string>
+    <string name="bai2_lab3_txt_desc">
+        Thỏ là loài động vật có vú nhỏ trong họ Leporidae (cùng với thỏ rừng),
+        thuộc bộ Lagomorpha (cùng với pika).
+        Oryctolagus cuniculus bao gồm các loài thỏ châu Âu và con cháu của nó,
+        với hơn 300 giống thỏ nhà trên thế giới.
+    </string>
+</resources>

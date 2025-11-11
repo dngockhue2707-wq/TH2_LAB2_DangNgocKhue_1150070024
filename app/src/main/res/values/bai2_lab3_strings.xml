@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bai2_lab3_app_name">Animal Sound</string>
+    <string name="bai2_lab3_txt_name">Rabbit</string>
+    <string name="bai2_lab3_txt_desc">
+        Rabbits are small mammals in the family Leporidae (along with the hare)
+        of the order Lagomorpha (along with the pika).
+        Oryctolagus cuniculus includes the European rabbit species and its descendants,
+        the world’s 305 breeds of domestic rabbit.
+        Sylvilagus includes 13 wild rabbit species, among them the seven types of cottontail.
+    </string>
+</resources>
